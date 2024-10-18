@@ -1,4 +1,4 @@
-Key Features:
+#Key Features:
 
     Real-time Face Detection: Detects faces using OpenCV’s Haar Cascade classifier.
     Face Recognition: Uses a pre-trained KNN classifier to identify faces from the webcam.
@@ -6,7 +6,7 @@ Key Features:
     Text-to-Speech: Provides audio feedback when attendance is recorded using the Windows Speech API.
     SQLite Database Integration: Stores face encodings and associated names in an SQLite database for future use.
 
-Technologies Used:
+#Technologies Used:
 
     Python: Core programming language for building the system.
     OpenCV: Used for capturing and processing images from the webcam.
@@ -15,7 +15,7 @@ Technologies Used:
     CSV: Used for attendance recording.
     Windows Speech API: Provides voice feedback after attendance is logged.
 
-How It Works:
+#How It Works:
 
     Capture face images and save their encodings in the database.
     Train a KNN model using the saved face data.
