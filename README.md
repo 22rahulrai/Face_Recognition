@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 ##📁 Project Structure
-
+```
 ├── data/
 │   ├── faces_data.pkl
 │   └── names.pkl
@@ -69,6 +69,9 @@ pip install -r requirements.txt
 ├── face_attendance.py
 ├── README.md
 └── requirements.txt
+```
+
+##🗃️ Output Example
 
 Attendance_24-04-2025.csv
 --------------------------
