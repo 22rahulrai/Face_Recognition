@@ -54,7 +54,9 @@ This project is a Python-based **Face Recognition Attendance System** that uses 
 git clone https://github.com/22rahulrai/Face_Recognition.git
 cd Face_Recognition
 pip install -r requirements.txt
+```
 
+##📁 Project Structure
 
 ├── data/
 │   ├── faces_data.pkl
@@ -74,7 +76,7 @@ Attendance_24-04-2025.csv
 |----------|-------------|
 | Rahul    | 10:42-12    |
 
-```
+
 ## 🧠 Future Enhancements
 - Use Deep Learning (e.g., FaceNet, Dlib) for better recognition.
 - Add a web interface using Flask or Django.
