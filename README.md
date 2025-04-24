@@ -56,7 +56,7 @@ cd Face_Recognition
 pip install -r requirements.txt
 ```
 
-##📁 Project Structure
+## 📁 Project Structure
 ```
 ├── data/
 │   ├── faces_data.pkl
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 └── requirements.txt
 ```
 
-##🗃️ Output Example
+## 🗃️ Output Example
 
 Attendance_24-04-2025.csv
 --------------------------
