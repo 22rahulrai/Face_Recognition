@@ -4,7 +4,7 @@ This project is a Python-based **Face Recognition Attendance System** that uses 
 
 ---
 <a href="https://deepwiki.com/22rahulrai/Face_Recognition_2110992016"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/22rahulrai/Face_Recognition_2110992016)
 ## 🔍 Features
 
 - 📸 Real-time **face detection** using Haar Cascades.
