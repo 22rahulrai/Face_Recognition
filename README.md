@@ -3,6 +3,9 @@
 This project is a Python-based **Face Recognition Attendance System** that uses OpenCV for face detection and recognition, K-Nearest Neighbors (KNN) for classification, and SQLite + CSV for attendance data storage. It also includes voice feedback using the Windows Speech API.
 
 ---
+
+## Explore This Project on DeepWiki
+
 <a href="https://deepwiki.com/22rahulrai/Face_Recognition_2110992016"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
 ## 🔍 Features
